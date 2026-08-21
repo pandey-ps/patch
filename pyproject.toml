@@ -1,0 +1,10 @@
+[project]
+name = "neuropet"
+version = "0.1.0"
+description = "snn based creature sim."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=2.2.6",
+    "pygame>=2.6.1",
+]
