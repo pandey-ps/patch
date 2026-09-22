@@ -21,3 +21,7 @@ this works by running the model on a correct and corrupt prompt, the activations
 #### note
 1. in the template, `corrupt` should be an unrealted wrong answer.
 2. `target` must be single token, else the 1st subtoken is considered.
+
+#### output plot for the model on current prompts
+
+![](examples/plot.png)
